@@ -1,5 +1,8 @@
 # Planning with Deep Neural Networks: A Survey
 
+Long-Horizon Visual Planning with Goal-Conditioned Hierarchical Predictors
+https://orybkin.github.io/video-gcp
+
 Search on the Replay Buffer: Bridging Planning and Reinforcement Learning
 https://arxiv.org/abs/1906.05253
 
