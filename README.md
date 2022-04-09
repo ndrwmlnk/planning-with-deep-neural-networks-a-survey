@@ -2,6 +2,14 @@
 
 📄 Long-Horizon Visual Planning with Goal-Conditioned Hierarchical Predictors
 https://orybkin.github.io/video-gcp
+📺 https://www.youtube.com/watch?v=bbIQepxyaVw
+
+📄 Semi-Parametric Topological Memory for Navigation
+https://arxiv.org/abs/1803.00653
+📺 https://www.youtube.com/watch?v=PyQe7nsedkY
+
+📄 Hallucinative Topological Memory forZero-Shot Visual Planning
+https://arxiv.org/abs/2002.12336.
 
 📄 Sparse Graphical Memory for Robust Planning
 https://arxiv.org/abs/2003.06417
@@ -45,12 +53,6 @@ https://arxiv.org/pdf/1901.11529.pdf
 
 📄 Long Horizon Visual Planning with Goal-Conditioned Hierarchical Predictors
 https://orybkin.github.io/video-gcp/
-
-📄 Semi-Parametric Topological Memory for Navigation
-https://arxiv.org/abs/1803.00653
-
-📄 Hallucinative Topological Memory forZero-Shot Visual Planning
-https://arxiv.org/abs/2002.12336.
 
 📄 Shortest-Path Constrained Reinforcement Learning for Sparse Reward Tasks
 https://arxiv.org/abs/2107.06405.
