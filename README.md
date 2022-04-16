@@ -99,6 +99,8 @@ http://proceedings.mlr.press/v97/jinnai19b/jinnai19b.pdf
 📄Successor Options 
 https://arxiv.org/pdf/1905.05731.pdf
 
+📄causal InfoGan
+https://sites.google.com/view/causal-infogan/home
 
  
  
