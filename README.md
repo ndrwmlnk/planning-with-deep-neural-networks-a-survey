@@ -1,5 +1,8 @@
 # 📖 Planning with Deep Neural Networks: A Survey
 
+⚡ Classification diagram <br />
+https://miro.com/app/board/uXjVO67mfJM=/?share_link_id=10266379307
+
 📄 Long-Horizon Visual Planning with Goal-Conditioned Hierarchical Predictors <br />
 📺 https://www.youtube.com/watch?v=bbIQepxyaVw <br />
 https://orybkin.github.io/video-gcp <br />
