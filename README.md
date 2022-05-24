@@ -105,7 +105,11 @@ https://arxiv.org/pdf/1905.05731.pdf
 📄causal InfoGan
 https://sites.google.com/view/causal-infogan/home
 
+ 📄 Planning with Diffusion for Flexible Behavior Synthesis
+ https://diffusion-planning.github.io/.
  
+ 📄 Learning Space Partitions for Path Planning
+ https://arxiv.org/abs/2106.10544.
  
  
  
