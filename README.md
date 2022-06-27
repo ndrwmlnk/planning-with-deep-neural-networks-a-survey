@@ -11,8 +11,8 @@ https://orybkin.github.io/video-gcp <br />
 📺 https://www.youtube.com/watch?v=PyQe7nsedkY <br />
 https://arxiv.org/abs/1803.00653 <br />
 
-📄 Hallucinative Topological Memory forZero-Shot Visual Planning  
-https://arxiv.org/abs/2002.12336.
+📄 Hallucinative Topological Memory for Zero-Shot Visual Planning  
+https://arxiv.org/abs/2002.12336
 
 📄 Sparse Graphical Memory for Robust Planning  
 https://arxiv.org/abs/2003.06417
@@ -36,7 +36,7 @@ https://arxiv.org/abs/1809.09318
 https://arxiv.org/abs/2002.11708.
 
 📄 Diversity-based Trajectory and Goal Selection with Hindsight Experience Replay  
-https://arxiv.org/pdf/2108.07887.pdf.
+https://arxiv.org/pdf/2108.07887.pdf
 
 📄 Rapid Exploration for Open-World Navigation with Latent Goal Models  
 https://arxiv.org/abs/2104.05859
@@ -61,10 +61,10 @@ https://arxiv.org/pdf/1901.11529.pdf
 https://orybkin.github.io/video-gcp/
 
 📄 Shortest-Path Constrained Reinforcement Learning for Sparse Reward Tasks  
-https://arxiv.org/abs/2107.06405.
+https://arxiv.org/abs/2107.06405
 
 📄 Learning One Representation to Optimize All Rewards  
-https://arxiv.org/abs/2103.07945.
+https://arxiv.org/abs/2103.07945
 
 📄 Model-Based Reinforcement Learning via Latent-Space Collocation  
 https://orybkin.github.io/latco/
@@ -109,10 +109,15 @@ https://arxiv.org/pdf/1905.05731.pdf
 https://sites.google.com/view/causal-infogan/home
 
 📄 Planning with Diffusion for Flexible Behavior Synthesis  
-https://diffusion-planning.github.io/.
+https://diffusion-planning.github.io/
  
 📄 Learning Space Partitions for Path Planning  
-https://arxiv.org/abs/2106.10544.
- 
+https://arxiv.org/abs/2106.10544
+
+---
+
+
+
+---
  
  
