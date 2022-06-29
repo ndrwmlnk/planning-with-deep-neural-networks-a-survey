@@ -115,7 +115,8 @@ https://diffusion-planning.github.io/
 https://arxiv.org/abs/2106.10544
 
 ---
-
+📄 Learning Geometric Reasoning and Control for Long-Horizon Tasks from Visual Input  
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9560934
 
 
 ---
