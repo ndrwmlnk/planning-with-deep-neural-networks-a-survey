@@ -131,6 +131,7 @@ https://github.com/elliotchanesane31/RIS
 📄 Planning with Goal-Conditioned Policies  
 https://proceedings.neurips.cc/paper/2019/hash/c8cc6e90ccbff44c9cee23611711cdc4-Abstract.html  
 https://github.com/snasiriany/leap  
+📺 https://sites.google.com/view/goal-planning
 
 
 ---
