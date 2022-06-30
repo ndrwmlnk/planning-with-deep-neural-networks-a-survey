@@ -132,7 +132,10 @@ https://github.com/elliotchanesane31/RIS
 https://proceedings.neurips.cc/paper/2019/hash/c8cc6e90ccbff44c9cee23611711cdc4-Abstract.html  
 https://github.com/snasiriany/leap  
 📺 https://sites.google.com/view/goal-planning
-
+  
+📄 Cognitive Mapping and Planning for Visual Navigation  
+https://openaccess.thecvf.com/content_cvpr_2017/html/Gupta_Cognitive_Mapping_and_CVPR_2017_paper.html  
+https://github.com/niudong1001/cognitive_mapping_and_planning
 
 ---
  
