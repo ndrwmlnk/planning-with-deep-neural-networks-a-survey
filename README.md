@@ -117,7 +117,7 @@ https://arxiv.org/abs/2106.10544
 ---
 📄 Learning Geometric Reasoning and Control for Long-Horizon Tasks from Visual Input  
 https://ieeexplore.ieee.org/abstract/document/9560934  
-https://www.youtube.com/watch?v=AcPWRTkr3_g
+📺 https://www.youtube.com/watch?v=AcPWRTkr3_g
   
 📄 Hierarchical Planning for Long-Horizon Manipulation with Geometric and Symbolic Scene Graphs  
 https://ieeexplore.ieee.org/abstract/document/9561548?casa_token=vZw8Txi9OK8AAAAA:tUOUu57hBD6JYjUZbiFHupq6yxy01GbiXKyblrllGg8QReNCEFsNbzP_9mljt8JT7lmO8ypyTOhFDw  
