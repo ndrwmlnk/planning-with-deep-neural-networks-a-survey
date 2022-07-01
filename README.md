@@ -135,7 +135,11 @@ https://github.com/snasiriany/leap
   
 📄 Cognitive Mapping and Planning for Visual Navigation  
 https://openaccess.thecvf.com/content_cvpr_2017/html/Gupta_Cognitive_Mapping_and_CVPR_2017_paper.html  
-https://github.com/niudong1001/cognitive_mapping_and_planning
+https://github.com/niudong1001/cognitive_mapping_and_planning  
+  
+📄 Motion Planning Among Dynamic, Decision-Making Agents with Deep Reinforcement Learning  
+https://ieeexplore.ieee.org/abstract/document/8593871?casa_token=IBsv3HtFInsAAAAA:IgK0ydhMyvhyJjUmZw5dqv1Sx4cJhjZEOdAGBwqdhnJJaM05MvJ7lL4WaC6aOREFE64N3G4sVzPpNg  
+
 
 ---
  
