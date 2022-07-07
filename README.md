@@ -141,6 +141,8 @@ https://github.com/niudong1001/cognitive_mapping_and_planning
 https://ieeexplore.ieee.org/abstract/document/8593871?casa_token=IBsv3HtFInsAAAAA:IgK0ydhMyvhyJjUmZw5dqv1Sx4cJhjZEOdAGBwqdhnJJaM05MvJ7lL4WaC6aOREFE64N3G4sVzPpNg  
 https://github.com/mit-acl/cadrl_ros  
 
+📄 Learning Sampling Distributions for Robot Motion Planning  
+https://ieeexplore.ieee.org/abstract/document/8460730
 
 ---
  
