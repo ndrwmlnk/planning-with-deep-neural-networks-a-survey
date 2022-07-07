@@ -142,7 +142,8 @@ https://ieeexplore.ieee.org/abstract/document/8593871?casa_token=IBsv3HtFInsAAAA
 https://github.com/mit-acl/cadrl_ros  
 
 📄 Learning Sampling Distributions for Robot Motion Planning  
-https://ieeexplore.ieee.org/abstract/document/8460730
+https://ieeexplore.ieee.org/abstract/document/8460730  
+https://github.com/StanfordASL/LearnedSamplingDistributions  
 
 ---
  
