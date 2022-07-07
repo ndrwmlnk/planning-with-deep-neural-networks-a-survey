@@ -145,6 +145,10 @@ https://github.com/mit-acl/cadrl_ros
 https://ieeexplore.ieee.org/abstract/document/8460730  
 https://github.com/StanfordASL/LearnedSamplingDistributions  
 
+📄 Motion Planning Networks  
+https://ieeexplore.ieee.org/abstract/document/8793889  
+
+
 ---
  
  
