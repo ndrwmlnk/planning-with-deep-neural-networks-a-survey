@@ -150,8 +150,13 @@ https://github.com/StanfordASL/LearnedSamplingDistributions
 📄 Motion Planning Networks  
 https://ieeexplore.ieee.org/abstract/document/8793889  
 arxiv- https://arxiv.org/abs/1806.05767
-📺https://www.youtube.com/watch?v=hT8hsptcwLw
+📺https://www.youtube.com/watch?v=hT8hsptcwLw  
+  
+📄 Robot Motion Planning in Learned Latent Spaces    
+https://ieeexplore.ieee.org/abstract/document/8653875
 
+📄 Neural Path Planning: Fixed Time, Near-Optimal Path Generation via Oracle Imitation   
+https://ieeexplore.ieee.org/abstract/document/8968089?casa_token=FmgZj80z_XgAAAAA:rqmSSOlHWCPLRWwgeIDL4BKYi0B1yua34qE9WkGRYGzqwl2pZyf5K9W2d7aGki68C3btXjC_tJyiRQ
 
 ---
  
