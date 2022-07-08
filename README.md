@@ -149,7 +149,9 @@ https://github.com/StanfordASL/LearnedSamplingDistributions
 
 📄 Motion Planning Networks  
 https://ieeexplore.ieee.org/abstract/document/8793889  
+
 arxiv- https://arxiv.org/abs/1806.05767
+
 📺https://www.youtube.com/watch?v=hT8hsptcwLw
 
 
