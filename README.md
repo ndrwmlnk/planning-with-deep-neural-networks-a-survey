@@ -117,10 +117,11 @@ https://arxiv.org/abs/2106.10544
 ---
 📄 Learning Geometric Reasoning and Control for Long-Horizon Tasks from Visual Input  
 https://ieeexplore.ieee.org/abstract/document/9560934  
+FreeOption-http://groups.csail.mit.edu/robotics-center/public_papers/Driess21.pdf
 📺 https://www.youtube.com/watch?v=AcPWRTkr3_g
   
 📄 Hierarchical Planning for Long-Horizon Manipulation with Geometric and Symbolic Scene Graphs  
-https://ieeexplore.ieee.org/abstract/document/9561548?casa_token=vZw8Txi9OK8AAAAA:tUOUu57hBD6JYjUZbiFHupq6yxy01GbiXKyblrllGg8QReNCEFsNbzP_9mljt8JT7lmO8ypyTOhFDw  
+https://arxiv.org/abs/2012.07277  
 📺 https://www.youtube.com/watch?v=GCfs3DJ4aO4  
   
 📄 Goal-Conditioned Reinforcement Learning with Imagined Subgoals  
@@ -142,11 +143,14 @@ https://ieeexplore.ieee.org/abstract/document/8593871?casa_token=IBsv3HtFInsAAAA
 https://github.com/mit-acl/cadrl_ros  
 
 📄 Learning Sampling Distributions for Robot Motion Planning  
-https://ieeexplore.ieee.org/abstract/document/8460730  
+https://ieeexplore.ieee.org/abstract/document/8460730 
+arxiv-https://arxiv.org/abs/1709.05448
 https://github.com/StanfordASL/LearnedSamplingDistributions  
 
 📄 Motion Planning Networks  
 https://ieeexplore.ieee.org/abstract/document/8793889  
+arxiv- https://arxiv.org/abs/1806.05767
+📺https://www.youtube.com/watch?v=hT8hsptcwLw
 
 
 ---
