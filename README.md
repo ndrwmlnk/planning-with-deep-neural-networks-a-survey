@@ -156,7 +156,8 @@ arxiv- https://arxiv.org/abs/1806.05767
 https://ieeexplore.ieee.org/abstract/document/8653875
 
 📄 Neural Path Planning:Fixed Time,Near-Optimal Path Generation via Oracle Imitation
- arxiv-https://arxiv.org/abs/1904.11102
+ 
+arxiv-https://arxiv.org/abs/1904.11102
 
 ---
  
