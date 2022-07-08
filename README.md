@@ -117,7 +117,7 @@ https://arxiv.org/abs/2106.10544
 ---
 📄 Learning Geometric Reasoning and Control for Long-Horizon Tasks from Visual Input  
 https://ieeexplore.ieee.org/abstract/document/9560934  
-FreeOption-http://groups.csail.mit.edu/robotics-center/public_papers/Driess21.pdf
+http://groups.csail.mit.edu/robotics-center/public_papers/Driess21.pdf
 📺 https://www.youtube.com/watch?v=AcPWRTkr3_g
   
 📄 Hierarchical Planning for Long-Horizon Manipulation with Geometric and Symbolic Scene Graphs  
@@ -149,9 +149,7 @@ https://github.com/StanfordASL/LearnedSamplingDistributions
 
 📄 Motion Planning Networks  
 https://ieeexplore.ieee.org/abstract/document/8793889  
-
 arxiv- https://arxiv.org/abs/1806.05767
-
 📺https://www.youtube.com/watch?v=hT8hsptcwLw
 
 
