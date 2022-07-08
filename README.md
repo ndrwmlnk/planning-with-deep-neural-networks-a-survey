@@ -153,9 +153,10 @@ arxiv- https://arxiv.org/abs/1806.05767
 📺https://www.youtube.com/watch?v=hT8hsptcwLw  
   
 📄 Robot Motion Planning in Learned Latent Spaces    
-https://ieeexplore.ieee.org/abstract/document/8653875
+https://ieeexplore.ieee.org/abstract/document/8653875  
+https://github.com/StanfordASL/LSBMP    
 
-📄 Neural Path Planning:Fixed Time,Near-Optimal Path Generation via Oracle Imitation
+📄 Neural Path Planning:Fixed Time,Near-Optimal Path Generation via Oracle Imitation  
 https://arxiv.org/abs/1904.11102
 
 ---
