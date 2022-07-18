@@ -112,8 +112,13 @@ https://sites.google.com/view/causal-infogan/home
 https://diffusion-planning.github.io/
  
 📄 Learning Space Partitions for Path Planning  
-https://arxiv.org/abs/2106.10544
+https://arxiv.org/abs/2106.10544 
 
+📄 Learning Robot Skills with Temporal Variational Inference
+https://arxiv.org/abs/2006.16232
+
+📄Dynamics-Aware Unsupervised Discovery of Skills
+https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Dynamics-Aware+Unsupervised+Discovery+of+Skills&btnG=
 ---
 📄 Learning Geometric Reasoning and Control for Long-Horizon Tasks from Visual Input  
 https://ieeexplore.ieee.org/abstract/document/9560934  
