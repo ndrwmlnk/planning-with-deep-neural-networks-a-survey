@@ -117,7 +117,8 @@ https://arxiv.org/abs/2106.10544
 📄 Learning Robot Skills with Temporal Variational Inference
 https://arxiv.org/abs/2006.16232
 
-
+📄 Dynamics-Aware Unsupervised Discovery of Skills
+https://arxiv.org/abs/1907.01657
 ---
 📄 Learning Geometric Reasoning and Control for Long-Horizon Tasks from Visual Input  
 https://ieeexplore.ieee.org/abstract/document/9560934  
