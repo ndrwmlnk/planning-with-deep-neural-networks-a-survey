@@ -118,7 +118,7 @@ https://arxiv.org/abs/2106.10544
 https://arxiv.org/abs/2006.16232
 
 📄Dynamics-Aware Unsupervised Discovery of Skills
-https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Dynamics-Aware+Unsupervised+Discovery+of+Skills&btnG=
+https://arxiv.org/abs/1907.01657
 ---
 📄 Learning Geometric Reasoning and Control for Long-Horizon Tasks from Visual Input  
 https://ieeexplore.ieee.org/abstract/document/9560934  
