@@ -123,7 +123,11 @@ https://arxiv.org/abs/1907.01657
 📄 Learning Geometric Reasoning and Control for Long-Horizon Tasks from Visual Input  
 https://ieeexplore.ieee.org/abstract/document/9560934  
 http://groups.csail.mit.edu/robotics-center/public_papers/Driess21.pdf
-📺 https://www.youtube.com/watch?v=AcPWRTkr3_g
+📺 https://www.youtube.com/watch?v=AcPWRTkr3_g  
+Related: 📄 Learning Geometric Reasoning and Control for Long-Horizon Tasks from Visual Input  
+📄 Learning to solve sequential physical reasoning problems from a scene image  
+📄 Deep Visual Reasoning: Learning to Predict Action Sequences for Task and Motion Planning from an Initial Scene Image  
+  
   
 📄 Hierarchical Planning for Long-Horizon Manipulation with Geometric and Symbolic Scene Graphs  
 https://arxiv.org/abs/2012.07277  
