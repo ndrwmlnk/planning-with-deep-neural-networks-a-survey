@@ -4,6 +4,8 @@
 https://miro.com/app/board/uXjVO67mfJM=/?share_link_id=10266379307
 
 📄 Long-Horizon Visual Planning with Goal-Conditioned Hierarchical Predictors <br />
+Karl Pertsch,*Oleh Rybkin,*Frederik Ebert,Chelsea Finn,Dinesh Jayaraman,Sergey Levine
+[Paper](/https://arxiv.org/pdf/2006.13205.pdf)[Video]
 📺 https://www.youtube.com/watch?v=bbIQepxyaVw <br />
 https://orybkin.github.io/video-gcp <br />
 
@@ -11,7 +13,7 @@ https://orybkin.github.io/video-gcp <br />
 📺 https://www.youtube.com/watch?v=PyQe7nsedkY <br />
 https://arxiv.org/abs/1803.00653 <br />
 
-📄 Hallucinative Topological Memory for Zero-Shot Visual Planning  
+📄 Hallucinative Topological Memory for Zero-Shot Visual Planning<br />  
 https://arxiv.org/abs/2002.12336
 
 📄 Sparse Graphical Memory for Robust Planning  
