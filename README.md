@@ -5,7 +5,7 @@ https://miro.com/app/board/uXjVO67mfJM=/?share_link_id=10266379307
 
 📄 Long-Horizon Visual Planning with Goal-Conditioned Hierarchical Predictors <br />
 Karl Pertsch,*Oleh Rybkin,*Frederik Ebert,Chelsea Finn,Dinesh Jayaraman,Sergey Levine<br />
-[Paper](/https://arxiv.org/pdf/2006.13205.pdf)[Video](/https://www.youtube.com/watch?v=bbIQepxyaVw)[Github](/https://github.com/orybkin/video-gcp)<br />
+[[Paper]}(/https://arxiv.org/pdf/2006.13205.pdf)  [[Video]](/https://www.youtube.com/watch?v=bbIQepxyaVw)  [[Github]](/https://github.com/orybkin/video-gcp)<br />
 
 📄 Semi-Parametric Topological Memory for Navigation <br />
 📺 https://www.youtube.com/watch?v=PyQe7nsedkY <br />
