@@ -8,8 +8,9 @@ Karl Pertsch,*Oleh Rybkin,*Frederik Ebert,Chelsea Finn,Dinesh Jayaraman,Sergey L
 [[Paper]](/https://arxiv.org/pdf/2006.13205.pdf)  [[Video]](/https://www.youtube.com/watch?v=bbIQepxyaVw)  [[Github]](/https://github.com/orybkin/video-gcp)<br />
 
 📄 Semi-Parametric Topological Memory for Navigation <br />
-📺 https://www.youtube.com/watch?v=PyQe7nsedkY <br />
-https://arxiv.org/abs/1803.00653 <br />
+Nikolay Savinov, Alexey Dosovitskiy, Vladlen Koltun <br />
+[[Paper]](/https://arxiv.org/abs/1803.00653) [[Video]](/https://www.youtube.com/watch?v=PyQe7nsedkY) [[Github]](/https://github.com/nsavinov/SPTM)<br />
+
 
 📄 Hallucinative Topological Memory for Zero-Shot Visual Planning<br />  
 https://arxiv.org/abs/2002.12336
