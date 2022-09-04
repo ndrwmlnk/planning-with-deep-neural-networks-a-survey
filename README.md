@@ -16,7 +16,9 @@ Nikolay Savinov, Alexey Dosovitskiy, Vladlen Koltun <br />
 Zhengyao Jiang, Tianjun Zhang, Michael Janner, Yueying Li, Tim Rocktäschel, Edward Grefenstette, Yuandong Tian<br />
 [[Paper]](https://arxiv.org/abs/2208.10291)[[Github]](/https://github.com/ZhengyaoJiang/latentplan)<br />
 
-
+📄 Transformers are Sample Efficient World Models<br />
+ Vincent Micheli, Eloi Alonso, François Fleuret<br />
+[[Paper]](/https://arxiv.org/abs/2209.00588)[[Github]](/https://github.com/eloialonso/iris)<br />
 
 
 
