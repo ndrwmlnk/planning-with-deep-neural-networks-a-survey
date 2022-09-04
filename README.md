@@ -135,8 +135,8 @@ https://arxiv.org/abs/1907.01657
 
 📄 Learning Geometric Reasoning and Control for Long-Horizon Tasks from Visual Input  
 https://ieeexplore.ieee.org/abstract/document/9560934  
-http://groups.csail.mit.edu/robotics-center/public_papers/Driess21.pdf
-📺 https://www.youtube.com/watch?v=AcPWRTkr3_g  
+http://groups.csail.mit.edu/robotics-center/public_papers/Driess21.pdf  
+📺 https://youtu.be/AcPWRTkr3_g  
 
 📄 Learning to solve sequential physical reasoning problems from a scene image  
 https://journals.sagepub.com/doi/full/10.1177/02783649211056967  
