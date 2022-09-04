@@ -128,24 +128,32 @@ https://arxiv.org/abs/2106.10544
 📄 Learning Robot Skills with Temporal Variational Inference
 https://arxiv.org/abs/2006.16232
 
-📄Dynamics-Aware Unsupervised Discovery of Skills
+📄 Dynamics-Aware Unsupervised Discovery of Skills  
 https://arxiv.org/abs/1907.01657
+
 ---
+
 📄 Learning Geometric Reasoning and Control for Long-Horizon Tasks from Visual Input  
 https://ieeexplore.ieee.org/abstract/document/9560934  
 http://groups.csail.mit.edu/robotics-center/public_papers/Driess21.pdf
 📺 https://www.youtube.com/watch?v=AcPWRTkr3_g  
-Background:   
+
 📄 Learning to solve sequential physical reasoning problems from a scene image  
 https://journals.sagepub.com/doi/full/10.1177/02783649211056967  
+
 📄 Deep Visual Reasoning: Learning to Predict Action Sequences for Task and Motion Planning from an Initial Scene Image  
 https://arxiv.org/abs/2006.05398  
-  
   
 📄 Hierarchical Planning for Long-Horizon Manipulation with Geometric and Symbolic Scene Graphs  
 https://arxiv.org/abs/2012.07277  
 📺 https://www.youtube.com/watch?v=GCfs3DJ4aO4  
-  
+
+📄 Differentiable Physics and Stable Modes for Tool-Use and Manipulation Planning  
+http://www.roboticsproceedings.org/rss14/p44.pdf  
+📺 https://youtu.be/ILufu3Iq2SI  
+
+---
+
 📄 Goal-Conditioned Reinforcement Learning with Imagined Subgoals  
 https://proceedings.mlr.press/v139/chane-sane21a.html  
 📺 https://crossminds.ai/video/goal-conditioned-reinforcement-learning-with-imagined-subgoals-614bcccc3c7a224a90902b87/  
