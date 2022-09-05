@@ -26,7 +26,7 @@ Danijar Hafner, Kuang-Huei Lee, Ian Fischer, Pieter Abbeel
 [[Paper]](https://arxiv.org/abs/2206.04114)  [[Website]](https://danijar.com/project/director/)  
 
 📄 A Generalist Agent  
-Scott Reed, Konrad Zolna, ... , Mahyar Bordbar, Nando de Freitas  
+Scott Reed, Konrad Zolna, ..., Mahyar Bordbar, Nando de Freitas  
 [[Paper]](https://arxiv.org/abs/2205.06175)  [[Website]](https://www.deepmind.com/publications/a-generalist-agent)  
 
 📄 Average-Reward Learning and Planning with Options  
@@ -37,13 +37,14 @@ Yi Wan, Abhishek Naik, Richard S. Sutton
 Archit Sharma, Shixiang Gu, Sergey Levine, Vikash Kumar, Karol Hausman  
 [[Paper]](https://arxiv.org/abs/1907.01657)  
 
+📄 Sparse Graphical Memory for Robust Planning  
+Scott Emmons, Ajay Jain, ..., Pieter Abbeel, Deepak Pathak  
+[[Paper]](https://arxiv.org/abs/2003.06417)  
+
 ---
 
 📄 Hallucinative Topological Memory for Zero-Shot Visual Planning<br />
 https://arxiv.org/abs/2002.12336
-
-📄 Sparse Graphical Memory for Robust Planning  
-https://arxiv.org/abs/2003.06417
 
 📄 World Model as a Graph: Learning Latent Landmarks for Planning  
 https://proceedings.mlr.press/v139/zhang21x.html
