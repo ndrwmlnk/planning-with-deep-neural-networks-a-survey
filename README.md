@@ -65,6 +65,12 @@ Yi Wan, Richard S. Sutton
 Sherjil Ozair, Yazhe Li, ..., Aäron van den Oord, Oriol Vinyals  
 [[Paper]](http://128.84.4.34/abs/2106.04615)  
 
+📄 **History Aware Multimodal Transformer for Vision-and-Language Navigation**  
+Shizhe Chen, Pierre-Louis Guhur, Cordelia Schmid, Ivan Laptev  
+[[Paper]](https://arxiv.org/abs/2110.13309)  
+
+
+
 ---
 
 📄 Hallucinative Topological Memory for Zero-Shot Visual Planning<br />
