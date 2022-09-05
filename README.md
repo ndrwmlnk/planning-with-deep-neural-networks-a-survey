@@ -25,25 +25,29 @@ Zhengyao Jiang, Tianjun Zhang, Michael Janner, Yueying Li, Tim Rocktäschel, Edw
 
 ---
 
-📄 Deep Hierarchical Planning from Pixels  
+📄 **Deep Hierarchical Planning from Pixels**  
 Danijar Hafner, Kuang-Huei Lee, Ian Fischer, Pieter Abbeel  
 [[Paper]](https://arxiv.org/abs/2206.04114)  [[Website]](https://danijar.com/project/director/)  
 
-📄 A Generalist Agent  
+📄 **A Generalist Agent**  
 Scott Reed, Konrad Zolna, ..., Mahyar Bordbar, Nando de Freitas  
 [[Paper]](https://arxiv.org/abs/2205.06175)  [[Website]](https://www.deepmind.com/publications/a-generalist-agent)  
 
-📄 Average-Reward Learning and Planning with Options  
+📄 **Average-Reward Learning and Planning with Options**  
 Yi Wan, Abhishek Naik, Richard S. Sutton  
 [[Paper]](https://arxiv.org/abs/2110.13855)  
 
-📄 Dynamics-Aware Unsupervised Discovery of Skills  
+📄 **Dynamics-Aware Unsupervised Discovery of Skills**  
 Archit Sharma, Shixiang Gu, Sergey Levine, Vikash Kumar, Karol Hausman  
 [[Paper]](https://arxiv.org/abs/1907.01657)  
 
-📄 Sparse Graphical Memory for Robust Planning  
+📄 **Sparse Graphical Memory for Robust Planning**  
 Scott Emmons, Ajay Jain, ..., Pieter Abbeel, Deepak Pathak  
 [[Paper]](https://arxiv.org/abs/2003.06417)  
+
+📄 **Planning with Goal-Conditioned Policies**  
+Soroush Nasiriany, Vitchyr Pong, Steven Lin, Sergey Levine  
+[[Paper]](https://proceedings.neurips.cc/paper/2019/hash/c8cc6e90ccbff44c9cee23611711cdc4-Abstract.html)  [[Website]](https://sites.google.com/view/goal-planning)  [[GitHub]](https://github.com/snasiriany/leap)  
 
 ---
 
@@ -177,11 +181,6 @@ http://www.roboticsproceedings.org/rss14/p44.pdf
 https://proceedings.mlr.press/v139/chane-sane21a.html  
 📺 https://crossminds.ai/video/goal-conditioned-reinforcement-learning-with-imagined-subgoals-614bcccc3c7a224a90902b87/  
 https://github.com/elliotchanesane31/RIS  
-  
-📄 Planning with Goal-Conditioned Policies  
-https://proceedings.neurips.cc/paper/2019/hash/c8cc6e90ccbff44c9cee23611711cdc4-Abstract.html  
-https://github.com/snasiriany/leap  
-📺 https://sites.google.com/view/goal-planning
   
 📄 Cognitive Mapping and Planning for Visual Navigation  
 https://openaccess.thecvf.com/content_cvpr_2017/html/Gupta_Cognitive_Mapping_and_CVPR_2017_paper.html  
