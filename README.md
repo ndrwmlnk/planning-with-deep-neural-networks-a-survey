@@ -21,7 +21,7 @@ Zhengyao Jiang, Tianjun Zhang, Michael Janner, Yueying Li, Tim Rocktäschel, Edw
 
 📄 Decision Transformer: Reinforcement Learning via Sequence Modeling<br />
  ili Chen*, Kevin Lu*, Aravind Rajeswaran, Kimin Lee, Aditya Grover, Michael Laskin, Pieter Abbeel, Aravind Srinivas*, Igor Mordatch*<br />
-[[Paper]](https://arxiv.org/abs/2106.01345)[[Github]](https://github.com/kzl/decision-transformer)<br />
+ ICML 2021[[Paper]](https://arxiv.org/abs/2106.01345)[[Github]](https://github.com/kzl/decision-transformer)<br />
 
 ---
 
