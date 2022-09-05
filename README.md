@@ -57,6 +57,10 @@ Kevin Yang, Tianjun Zhang, ..., Dan Klein, Yuandong Tian
 Saurabh Gupta, Varun Tolani, ..., Rahul Sukthankar, Jitendra Malik  
 [[Paper]](https://arxiv.org/abs/1702.03920)  [[GitHub]](https://github.com/niudong1001/cognitive_mapping_and_planning)    
 
+📄 **Toward Discovering Options that Achieve Faster Planning**  
+Yi Wan, Richard S. Sutton  
+[[Paper]](https://arxiv.org/abs/2205.12515)  
+
 ---
 
 📄 Hallucinative Topological Memory for Zero-Shot Visual Planning<br />
