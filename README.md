@@ -61,6 +61,10 @@ Saurabh Gupta, Varun Tolani, ..., Rahul Sukthankar, Jitendra Malik
 Yi Wan, Richard S. Sutton  
 [[Paper]](https://arxiv.org/abs/2205.12515)  
 
+📄 **Vector Quantized Models for Planning**  
+Sherjil Ozair, Yazhe Li, ..., Aäron van den Oord, Oriol Vinyals  
+[[Paper]](http://128.84.4.34/abs/2106.04615)  
+
 ---
 
 📄 Hallucinative Topological Memory for Zero-Shot Visual Planning<br />
@@ -196,18 +200,18 @@ https://ieeexplore.ieee.org/abstract/document/8593871?casa_token=IBsv3HtFInsAAAA
 https://github.com/mit-acl/cadrl_ros  
 
 📄 Learning Sampling Distributions for Robot Motion Planning  
-https://ieeexplore.ieee.org/abstract/document/8460730 
-arxiv-https://arxiv.org/abs/1709.05448
+https://ieeexplore.ieee.org/abstract/document/8460730  
+arxiv-https://arxiv.org/abs/1709.05448  
 https://github.com/StanfordASL/LearnedSamplingDistributions  
 
 📄 Motion Planning Networks  
 https://ieeexplore.ieee.org/abstract/document/8793889  
-arxiv- https://arxiv.org/abs/1806.05767
+arxiv- https://arxiv.org/abs/1806.05767  
 📺https://www.youtube.com/watch?v=hT8hsptcwLw  
   
-📄 Robot Motion Planning in Learned Latent Spaces    
+📄 Robot Motion Planning in Learned Latent Spaces  
 https://ieeexplore.ieee.org/abstract/document/8653875  
-https://github.com/StanfordASL/LSBMP    
+https://github.com/StanfordASL/LSBMP  
 
 📄 Neural Path Planning:Fixed Time,Near-Optimal Path Generation via Oracle Imitation  
 https://arxiv.org/abs/1904.11102
