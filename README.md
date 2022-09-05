@@ -53,6 +53,10 @@ Soroush Nasiriany, Vitchyr Pong, Steven Lin, Sergey Levine
 Kevin Yang, Tianjun Zhang, ..., Dan Klein, Yuandong Tian  
 [[Paper]](https://arxiv.org/abs/2106.1054)  
 
+📄 **Cognitive Mapping and Planning for Visual Navigation**  
+Saurabh Gupta, Varun Tolani, ..., Rahul Sukthankar, Jitendra Malik  
+[[Paper]](https://arxiv.org/abs/1702.03920)  [[GitHub]](https://github.com/niudong1001/cognitive_mapping_and_planning)    
+
 ---
 
 📄 Hallucinative Topological Memory for Zero-Shot Visual Planning<br />
@@ -182,10 +186,6 @@ http://www.roboticsproceedings.org/rss14/p44.pdf
 https://proceedings.mlr.press/v139/chane-sane21a.html  
 📺 https://crossminds.ai/video/goal-conditioned-reinforcement-learning-with-imagined-subgoals-614bcccc3c7a224a90902b87/  
 https://github.com/elliotchanesane31/RIS  
-  
-📄 Cognitive Mapping and Planning for Visual Navigation  
-https://openaccess.thecvf.com/content_cvpr_2017/html/Gupta_Cognitive_Mapping_and_CVPR_2017_paper.html  
-https://github.com/niudong1001/cognitive_mapping_and_planning  
   
 📄 Motion Planning Among Dynamic, Decision-Making Agents with Deep Reinforcement Learning  
 https://ieeexplore.ieee.org/abstract/document/8593871?casa_token=IBsv3HtFInsAAAAA:IgK0ydhMyvhyJjUmZw5dqv1Sx4cJhjZEOdAGBwqdhnJJaM05MvJ7lL4WaC6aOREFE64N3G4sVzPpNg  
