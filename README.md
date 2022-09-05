@@ -33,6 +33,10 @@ Scott Reed, Konrad Zolna, ... , Mahyar Bordbar, Nando de Freitas
 Yi Wan, Abhishek Naik, Richard S. Sutton  
 [[Paper]](https://arxiv.org/abs/2110.13855)  
 
+📄 Dynamics-Aware Unsupervised Discovery of Skills  
+Archit Sharma, Shixiang Gu, Sergey Levine, Vikash Kumar, Karol Hausman  
+[[Paper]](https://arxiv.org/abs/1907.01657)  
+
 ---
 
 📄 Hallucinative Topological Memory for Zero-Shot Visual Planning<br />
@@ -140,9 +144,6 @@ https://arxiv.org/abs/2106.10544
 
 📄 Learning Robot Skills with Temporal Variational Inference
 https://arxiv.org/abs/2006.16232
-
-📄 Dynamics-Aware Unsupervised Discovery of Skills  
-https://arxiv.org/abs/1907.01657
 
 ---
 
