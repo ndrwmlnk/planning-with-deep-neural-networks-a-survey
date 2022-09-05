@@ -29,6 +29,10 @@ Danijar Hafner, Kuang-Huei Lee, Ian Fischer, Pieter Abbeel
 Scott Reed, Konrad Zolna, ... , Mahyar Bordbar, Nando de Freitas  
 [[Paper]](https://arxiv.org/abs/2205.06175)  [[Website]](https://www.deepmind.com/publications/a-generalist-agent)  
 
+📄 Average-Reward Learning and Planning with Options  
+Yi Wan, Abhishek Naik, Richard S. Sutton  
+[[Paper]](https://arxiv.org/abs/2110.13855)  
+
 ---
 
 📄 Hallucinative Topological Memory for Zero-Shot Visual Planning<br />
