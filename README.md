@@ -49,6 +49,10 @@ Scott Emmons, Ajay Jain, ..., Pieter Abbeel, Deepak Pathak
 Soroush Nasiriany, Vitchyr Pong, Steven Lin, Sergey Levine  
 [[Paper]](https://proceedings.neurips.cc/paper/2019/hash/c8cc6e90ccbff44c9cee23611711cdc4-Abstract.html)  [[Website]](https://sites.google.com/view/goal-planning)  [[GitHub]](https://github.com/snasiriany/leap)  
 
+📄 **Learning Space Partitions for Path Planning**  
+Kevin Yang, Tianjun Zhang, ..., Dan Klein, Yuandong Tian  
+[[Paper]](https://arxiv.org/abs/2106.1054)  
+
 ---
 
 📄 Hallucinative Topological Memory for Zero-Shot Visual Planning<br />
@@ -148,9 +152,6 @@ https://sites.google.com/view/causal-infogan/home
 📄 Planning with Diffusion for Flexible Behavior Synthesis  
 https://diffusion-planning.github.io/
  
-📄 Learning Space Partitions for Path Planning  
-https://arxiv.org/abs/2106.10544 
-
 📄 Learning Robot Skills with Temporal Variational Inference
 https://arxiv.org/abs/2006.16232
 
