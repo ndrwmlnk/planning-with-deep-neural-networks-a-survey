@@ -5,7 +5,7 @@ https://miro.com/app/board/uXjVO67mfJM=/?share_link_id=10266379307
 
 📄 Long-Horizon Visual Planning with Goal-Conditioned Hierarchical Predictors <br />
 Karl Pertsch,*Oleh Rybkin,*Frederik Ebert,Chelsea Finn,Dinesh Jayaraman,Sergey Levine<br />
-NeuralIPS 2020 [[Paper]](https://arxiv.org/pdf/2006.13205.pdf)  [[Video]](/https://www.youtube.com/watch?v=bbIQepxyaVw)  [[Github]](/https://github.com/orybkin/video-gcp)<br />
+[[Paper]](https://arxiv.org/pdf/2006.13205.pdf)  [[Video]](/https://www.youtube.com/watch?v=bbIQepxyaVw)  [[Github]](/https://github.com/orybkin/video-gcp)  NeurIPS 2020
 
 📄 Semi-Parametric Topological Memory for Navigation <br />
 Nikolay Savinov, Alexey Dosovitskiy, Vladlen Koltun <br />
@@ -23,7 +23,11 @@ Zhengyao Jiang, Tianjun Zhang, Michael Janner, Yueying Li, Tim Rocktäschel, Edw
 
 📄 Deep Hierarchical Planning from Pixels  
 Danijar Hafner, Kuang-Huei Lee, Ian Fischer, Pieter Abbeel  
-[[Paper]](https://arxiv.org/abs/2206.04114)[[Website]](https://danijar.com/project/director/)  
+[[Paper]](https://arxiv.org/abs/2206.04114)  [[Website]](https://danijar.com/project/director/)  
+
+📄 A Generalist Agent  
+Scott Reed, Konrad Zolna, ... , Mahyar Bordbar, Nando de Freitas  
+[[Paper]](https://arxiv.org/abs/2205.06175)  [[Website]](https://www.deepmind.com/publications/a-generalist-agent)  
 
 ---
 
