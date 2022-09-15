@@ -5,7 +5,7 @@ https://miro.com/app/board/uXjVO67mfJM=/?share_link_id=10266379307
 
 📄 Long-Horizon Visual Planning with Goal-Conditioned Hierarchical Predictors <br />
 Karl Pertsch,*Oleh Rybkin,*Frederik Ebert,Chelsea Finn,Dinesh Jayaraman,Sergey Levine<br />
-[[Paper]](https://arxiv.org/pdf/2006.13205.pdf)  [[Video]](/https://www.youtube.com/watch?v=bbIQepxyaVw)  [[Github]](/https://github.com/orybkin/video-gcp)  NeurIPS 2020
+[[Paper]](https://arxiv.org/pdf/2006.13205.pdf)  [[Video]](https://www.youtube.com/watch?v=bbIQepxyaVw)  [[Github]](https://github.com/orybkin/video-gcp)  NeurIPS 2020
 
 📄 Semi-Parametric Topological Memory for Navigation <br />
 Nikolay Savinov, Alexey Dosovitskiy, Vladlen Koltun <br />
