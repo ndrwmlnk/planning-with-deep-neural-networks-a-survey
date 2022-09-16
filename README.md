@@ -9,7 +9,7 @@ Karl Pertsch,*Oleh Rybkin,*Frederik Ebert,Chelsea Finn,Dinesh Jayaraman,Sergey L
 
 📄 Semi-Parametric Topological Memory for Navigation <br />
 Nikolay Savinov, Alexey Dosovitskiy, Vladlen Koltun <br />
-(ICLR) 2018 [[Paper]](https://arxiv.org/abs/1803.00653) [[Video]](/https://www.youtube.com/watch?v=PyQe7nsedkY) [[Github]](/https://github.com/nsavinov/SPTM)<br />
+(ICLR) 2018 [[Paper]](https://arxiv.org/abs/1803.00653) [[Video]](/https://www.youtube.com/watch?v=PyQe7nsedkY) [[Github]](https://github.com/nsavinov/SPTM)<br />
 
 📄 Efficient Planning in a Compact Latent Action Space<br />
 Zhengyao Jiang, Tianjun Zhang, Michael Janner, Yueying Li, Tim Rocktäschel, Edward Grefenstette, Yuandong Tian<br />
