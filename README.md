@@ -225,3 +225,22 @@ https://arxiv.org/abs/1904.11102
 ---
  
  
+
+📄 Hierarchical Representations and Explicit Memory: Learning Effective Navigation Policies on 3D Scene Graphs using Graph Neural Networks <br />
+Zachary Ravichandran, Lisa Peng, Nathan Hughes, J. Daniel Griffith, and Luca Carlone<br />
+[[Paper]](https://arxiv.org/pdf/2108.01176.pdf)
+[[Video]](https://youtu.be/x4LM-g3-uaY)
+[[Github]](https://github.com/MIT-TESSE/dsg-rl)
+ICRA 2022
+
+📄 TERP: Reliable Planning in Uneven Outdoor Environments using Deep Reinforcement Learning <br />
+Kasun Weerakoon, Adarsh Jagan Sathyamoorthy, Utsav Patel, and Dinesh Manocha<br />
+[[Paper]](https://arxiv.org/pdf/2109.05120.pdf) 
+[[Website+Video]](https://gamma.umd.edu/researchdirections/crowdmultiagent/terp)
+ICRA 2022
+
+📄 A Sim-to-Real Pipeline for Deep Reinforcement Learning for Autonomous Robot Navigation in Cluttered Rough Terrain <br />
+Han Hu, Kaicheng Zhang, 
+Aaron Hao Tan,  Michael Ruan, Christopher Agia, Goldie Nejat<br />
+[[Paper]](https://www.chrisagia.com/papers/Sim2RealDRLNav-RAL-2021.pdf)  
+RAL Vol.6 No.4 - 2021
