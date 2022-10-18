@@ -23,6 +23,12 @@ Zhengyao Jiang, Tianjun Zhang, Michael Janner, Yueying Li, Tim Rocktäschel, Edw
  ili Chen*, Kevin Lu*, Aravind Rajeswaran, Kimin Lee, Aditya Grover, Michael Laskin, Pieter Abbeel, Aravind Srinivas*, Igor Mordatch*<br />
  ICML 2021[[Paper]](https://arxiv.org/abs/2106.01345)[[Github]](https://github.com/kzl/decision-transformer)<br />
 
+--- Planning and text ---
+
+📄 VIMA: General Robot Manipulation with Multimodal Prompts <br />
+Yunfan Jiang, Agrim Gupta, Zichen Charles Zhang, Guanzhi Wang, Yongqiang Dou, Yanjun Chen, Li Fei-Fei, Anima Anandkumar, Yuke Zhu, Linxi Jim Fan<br />
+[[Paper]](https://vimalabs.github.io/assets/vima_paper.pdf)  [[Project]](https://vimalabs.github.io)
+
 ---
 
 📄 **Deep Hierarchical Planning from Pixels**  
