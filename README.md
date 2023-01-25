@@ -1,252 +1,262 @@
-# 📖 Planning with Deep Neural Networks: A Survey
-
-⚡ Classification diagram <br />
-https://miro.com/app/board/uXjVO67mfJM=/?share_link_id=10266379307
-
-📄 Long-Horizon Visual Planning with Goal-Conditioned Hierarchical Predictors <br />
-Karl Pertsch,*Oleh Rybkin,*Frederik Ebert,Chelsea Finn,Dinesh Jayaraman,Sergey Levine<br />
-[[Paper]](https://arxiv.org/abs/2006.13205)  [[Video]](https://www.youtube.com/watch?v=bbIQepxyaVw)  [[Github]](https://github.com/orybkin/video-gcp)  NeurIPS 2020
-
-📄 Semi-Parametric Topological Memory for Navigation <br />
-Nikolay Savinov, Alexey Dosovitskiy, Vladlen Koltun <br />
-(ICLR) 2018 [[Paper]](https://arxiv.org/abs/1803.00653) [[Video]](https://www.youtube.com/watch?v=PyQe7nsedkY) [[Github]](https://github.com/nsavinov/SPTM)<br />
-
-📄 Efficient Planning in a Compact Latent Action Space<br />
-Zhengyao Jiang, Tianjun Zhang, Michael Janner, Yueying Li, Tim Rocktäschel, Edward Grefenstette, Yuandong Tian<br />
-[[Paper]](https://arxiv.org/abs/2208.10291)[[Github]](https://github.com/ZhengyaoJiang/latentplan)<br />
-
-📄 Transformers are Sample Efficient World Models<br />
- Vincent Micheli, Eloi Alonso, François Fleuret<br />
-[[Paper]](https://arxiv.org/abs/2209.00588)[[Github]](https://github.com/eloialonso/iris)<br />
-
-📄 Decision Transformer: Reinforcement Learning via Sequence Modeling<br />
- ili Chen*, Kevin Lu*, Aravind Rajeswaran, Kimin Lee, Aditya Grover, Michael Laskin, Pieter Abbeel, Aravind Srinivas*, Igor Mordatch*<br />
- ICML 2021[[Paper]](https://arxiv.org/abs/2106.01345)[[Github]](https://github.com/kzl/decision-transformer)<br />
-
---- Planning and text ---
-
-📄 VIMA: General Robot Manipulation with Multimodal Prompts <br />
-Yunfan Jiang, Agrim Gupta, Zichen Charles Zhang, Guanzhi Wang, Yongqiang Dou, Yanjun Chen, Li Fei-Fei, Anima Anandkumar, Yuke Zhu, Linxi Jim Fan<br />
-[[Paper]](https://vimalabs.github.io/assets/vima_paper.pdf)  [[Project]](https://vimalabs.github.io)
+## 📖 Planning with Deep Neural Networks: A Survey
 
 ---
 
-📄 **Deep Hierarchical Planning from Pixels**  
-Danijar Hafner, Kuang-Huei Lee, Ian Fischer, Pieter Abbeel  
-[[Paper]](https://arxiv.org/abs/2206.04114)  [[Website]](https://danijar.com/project/director/)  
+[Papers](#papers)
 
-📄 **A Generalist Agent**  
-Scott Reed, Konrad Zolna, ..., Mahyar Bordbar, Nando de Freitas  
-[[Paper]](https://arxiv.org/abs/2205.06175)  [[Website]](https://www.deepmind.com/publications/a-generalist-agent)  
+- [2023](#2023)
+- [2022](#2022)
+- [2021](#2021)
+- [2020](#2020)
+- [2019](#2019)
+- [2018](#2018)
+- [2017](#2017)
 
-📄 **Average-Reward Learning and Planning with Options**  
-Yi Wan, Abhishek Naik, Richard S. Sutton  
-[[Paper]](https://arxiv.org/abs/2110.13855)  
 
-📄 **Dynamics-Aware Unsupervised Discovery of Skills**  
-Archit Sharma, Shixiang Gu, Sergey Levine, Vikash Kumar, Karol Hausman  
-[[Paper]](https://arxiv.org/abs/1907.01657)  
+### Papers
 
-📄 **Sparse Graphical Memory for Robust Planning**  
-Scott Emmons, Ajay Jain, ..., Pieter Abbeel, Deepak Pathak  
-[[Paper]](https://arxiv.org/abs/2003.06417)  
 
-📄 **Planning with Goal-Conditioned Policies**  
-Soroush Nasiriany, Vitchyr Pong, Steven Lin, Sergey Levine  
-[[Paper]](https://proceedings.neurips.cc/paper/2019/hash/c8cc6e90ccbff44c9cee23611711cdc4-Abstract.html)  [[Website]](https://sites.google.com/view/goal-planning)  [[GitHub]](https://github.com/snasiriany/leap)  
+## 2023
+
+
+## 2022
+
+📄 **VIMA: General Robot Manipulation with Multimodal Prompts**  
+[[Paper]](https://arxiv.org/abs/2210.03094) arXiv  
+<sub><sup>*Yunfan Jiang, Agrim Gupta, Zichen Zhang, Guanzhi Wang, Yongqiang Dou, Yanjun Chen, Li Fei-Fei, Anima Anandkumar, Yuke Zhu, Linxi Fan* </sup></sub>
+
+📄 **Deep Hierarchical Planning from Pixels**<br/> 
+[[Paper]](https://arxiv.org/abs/2206.04114) [[Github]](https://github.com/danijar/director) [[Video]](https://www.youtube.com/watch?v=xDUAOyXiRKQ) arxiv<br/>
+<sub><sup>*Danijar Hafner, Kuang-Huei Lee, Ian Fischer, Pieter Abbeel*</sup></sub>   
+    
+📄 **Transformers are Sample Efficient World Models**  
+[[Paper]](https://arxiv.org/abs/2209.00588) [[Github]](https://github.com/eloialonso/iris) arxiv <br/> 
+<sub><sup>*Vincent Micheli, Eloi Alonso, François Fleuret*</sup></sub>   
+
+📄 **Efficient Planning in a Compact Latent Action Space**  
+[[Paper]](https://arxiv.org/abs/2208.10291) [[Github]](https://github.com/ZhengyaoJiang/latentplan) arxiv <br/>
+<sub><sup>*Danijar Hafner, Kuang-Huei Lee, Ian Fischer, Pieter Abbeel*</sup></sub>    
+
+📄 **A Generalist Agent**<br/> 
+[[Paper]](https://arxiv.org/abs/2205.06175) [[Website]](https://www.deepmind.com/publications/a-generalist-agent) arXiv   
+<sub><sup>*Zhengyao Jiang, Tianjun Zhang, Michael Janner, Yueying Li, Tim Rocktäschel, Edward Grefenstette, Yuandong Tian*</sup></sub>    
+
+📄 **Learning Space Partitions for Path Planning**<br/> 
+[[Paper]](https://arxiv.org/abs/2106.10544) [[Github]](https://github.com/yangkevin2/neurips2021-lap3)  
+<sub><sup>*Kevin Yang, Tianjun Zhang, Chris Cummins, Brandon Cui, Benoit Steiner, Linnan Wang, Joseph E. Gonzalez, Dan Klein, Yuandong Tian*</sup></sub>
+
+📄 **Toward Discovering Options that Achieve Faster Planning**<br/>
+[[Paper]](https://arxiv.org/abs/2205.12515) arxiv <br/>
+<sub><sup>*Yi Wan, Richard S. Sutton*</sup></sub>
+
+📄 **Value Function Spaces: Skill-Centric State Abstractions for Long-Horizon Reasoning**<br/>
+[[Paper]](https://arxiv.org/abs/2111.03189)  ICLR<br/>
+<sub><sup>*Dhruv Shah, Peng Xu, Yao Lu, Ted Xiao, Alexander Toshev, Sergey Levine, Brian Ichter*</sup></sub>
+
+📄 **Planning with Diffusion for Flexible Behavior Synthesis**<br/>
+[[Paper]](https://arxiv.org/abs/2205.09991)  ICML<br/>
+<sub><sup>*Michael Janner, Yilun Du, Joshua B. Tenenbaum, Sergey Levine*</sup></sub>
+
+📄 **Hierarchical Representations and Explicit Memory: Learning Effective Navigation Policies on 3D Scene Graphs using Graph Neural Networks**<br/>
+[[Paper]](https://arxiv.org/abs/2108.01176) [[Video]](https://www.youtube.com/watch?v=x4LM-g3-uaY) [[Github]](https://github.com/MIT-TESSE/dsg-rl) ICRA <br/>
+<sub><sup>*Zachary Ravichandran, Lisa Peng, Nathan Hughes, J. Daniel Griffith, and Luca Carlone*</sup></sub>
+
+📄 **Planning with Diffusion for Flexible Behavior Synthesis**<br/>
+[[Paper]](https://arxiv.org/abs/2205.09991)  ICML <br/>
+<sub><sup>*Michael Janner, Yilun Du, Joshua B. Tenenbaum, Sergey Levine*</sup></sub>
+
+
+## 2021
+
+📄 **TERP: Reliable Planning in Uneven Outdoor Environments using Deep Reinforcement Learning**<br/>
+[[Paper]](https://arxiv.org/abs/2109.05120) [[Website]](https://gamma.umd.edu/researchdirections/crowdmultiagent/terp)  ICRA<br/>
+<sub><sup>*Kasun Weerakoon, Adarsh Jagan Sathyamoorthy, Utsav Patel, and Dinesh Manocha*</sup></sub>
+
+📄**Average-Reward Learning and Planning with Options** <br/> 
+[[Paper]](https://arxiv.org/abs/2110.13855) arxiv<br/>
+<sub><sup>*Yi Wan, Abhishek Naik, Richard S. Sutton*</sup></sub>  
+
+📄 **Decision Transformer: Reinforcement Learning via Sequence Modeling**   
+[[Paper]](https://arxiv.org/abs/2106.01345) [[Github]](https://github.com/kzl/decision-transformer) ICML<br/>
+<sub><sup>*ili Chen*, Kevin Lu*, Aravind Rajeswaran, Kimin Lee, Aditya Grover, Michael Laskin, Pieter Abbeel, Aravind Srinivas*, Igor Mordatch*</sup></sub>
 
 📄 **Learning Space Partitions for Path Planning**  
-Kevin Yang, Tianjun Zhang, ..., Dan Klein, Yuandong Tian  
-[[Paper]](https://arxiv.org/abs/2106.1054)  
-
-📄 **Cognitive Mapping and Planning for Visual Navigation**  
-Saurabh Gupta, Varun Tolani, ..., Rahul Sukthankar, Jitendra Malik  
-[[Paper]](https://arxiv.org/abs/1702.03920)  [[GitHub]](https://github.com/niudong1001/cognitive_mapping_and_planning)    
-
-📄 **Toward Discovering Options that Achieve Faster Planning**  
-Yi Wan, Richard S. Sutton  
-[[Paper]](https://arxiv.org/abs/2205.12515)  
+[[Paper]](https://arxiv.org/abs/2106.10544) [[Github]](https://github.com/yangkevin2/neurips2021-lap3) NeurIPS<br/>
+<sub><sup>*Kevin Yang, Tianjun Zhang, Chris Cummins, Brandon Cui, Benoit Steiner, Linnan Wang, Joseph E. Gonzalez, Dan Klein, Yuandong Tian*</sup></sub>
 
 📄 **Vector Quantized Models for Planning**  
-Sherjil Ozair, Yazhe Li, ..., Aäron van den Oord, Oriol Vinyals  
-[[Paper]](http://128.84.4.34/abs/2106.04615)  
+[[Paper]](https://arxiv.org/abs/2106.04615) ICML<br/>
+<sub><sup>*Sherjil Ozair, Yazhe Li, Ali Razavi, Ioannis Antonoglou, Aäron van den Oord, Oriol Vinyals*</sup></sub>
 
-📄 **History Aware Multimodal Transformer for Vision-and-Language Navigation**  
-Shizhe Chen, Pierre-Louis Guhur, Cordelia Schmid, Ivan Laptev  
-[[Paper]](https://arxiv.org/abs/2110.13309)  
+📄 **Discovering and Achieving Goals via World Models**  
+[[Paper]](https://arxiv.org/abs/2110.09514) [[Website]](https://orybkin.github.io/lexa/) ICML<br/>
+<sub><sup>*Russell Mendonca, Oleh Rybkin, Kostas Daniilidis, Danijar Hafner, Deepak Pathak*</sup></sub>
+
+📄 **Diversity-based Trajectory and Goal Selection with Hindsight Experience Replay**  
+[[Paper]](https://arxiv.org/abs/2108.07887) arxiv<br/>
+<sub><sup>*Tianhong Dai, Hengyan Liu, Kai Arulkumaran, Guangyu Ren, Anil Anthony Bharath*</sup></sub>
+
+📄 **Rapid Exploration for Open-World Navigation with Latent Goal Models**   
+[[Paper]](https://arxiv.org/abs/2104.05859) [[Website]](https://sites.google.com/view/recon-robot) CoRL<br/>
+<sub><sup>*Omer Tov, Yuval Alaluf, Yotam Nitzan, Or Patashnik, Daniel Cohen-Or*</sup></sub>
+
+📄 **Shortest-Path Constrained Reinforcement Learning for Sparse Reward Tasks**   
+[[Paper]](https://arxiv.org/abs/2107.06405) [[Video]](https://crossminds.ai/video/shortest-path-constrained-reinforcement-learning-for-sparse-reward-tasks-614bd4193c7a224a90903227/) ICML<br/>
+<sub><sup>*Sungryull Sohn, Sungtae Lee, Jongwook Choi, Harm van Seijen, Mehdi Fatemi, Honglak Lee*</sup></sub>  
+
+📄 **Learning One Representation to Optimize All Rewards**  
+[[Paper]](https://arxiv.org/abs/2103.07945) arxiv<br/>
+<sub><sup>*Ahmed Touati, Yann Ollivier*</sup></sub>  
+
+📄 **Model-Based Reinforcement Learning via Latent-Space Collocation**  
+[[Paper]](https://arxiv.org/abs/2106.13229) [[Website]](https://orybkin.github.io/latco/) ICML<br/>
+<sub><sup>*Oleh Rybkin, Chuning Zhu, Anusha Nagabandi, Kostas Daniilidis, Igor Mordatch, Sergey Levine*</sup></sub>  
+
+📄 **Skill Preferences: Learning to Extract and Execute Robotic Skills from Human Feedback**  
+[[Paper]](https://arxiv.org/abs/2108.05382) [[Website]](https://sites.google.com/view/skill-pref) NeurIPS<br/>
+<sub><sup>*Xiaofei Wang, Kimin Lee, Kourosh Hakhamaneshi, Pieter Abbeel, Michael Laskin*</sup></sub>  
+
+📄 **Learning Transferable Visual Models From Natural Language Supervision**  
+[[Paper]](https://arxiv.org/abs/2103.00020) [[Github]](https://github.com/openai/CLIP) PMLR<br/>
+<sub><sup>*Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, Ilya Sutskever*</sup></sub>
+
+📄 **A First-Occupancy Representation for Reinforcement Learning**  
+[[Paper]](https://arxiv.org/abs/2109.13863) [[Video]](https://www.youtube.com/watch?v=UG8VIXcgCKg) [[Github]](https://github.com/tedmoskovitz/first_occupancy) arxiv, ICLR<br/>
+<sub><sup>*Ted Moskovitz, Spencer R. Wilson, Maneesh Sahani*</sup></sub>
+
+📄 **Skill Discovery for Exploration and Planning using Deep Skill Graphs**  
+[[Paper]](https://proceedings.mlr.press/v139/bagaria21a.html) ICML<br/>
+<sub><sup>*Akhil Bagaria, Jason K Senthil, George Konidaris*</sup></sub>  
+
+📄 **Flexible Option Learning**  
+[[Paper]](https://arxiv.org/abs/2112.03097) NeurIPS(Spotlight)<br/>
+<sub><sup>*Martin Klissarov, Doina Precup*</sup></sub>
+
+📄 **A Sim-to-Real Pipeline for Deep Reinforcement Learning for Autonomous Robot Navigation in Cluttered Rough Terrain**  
+[[Paper]](https://arxiv.org/abs/2102.02766) [[Github]](https://github.com/omertov/encoder4editing) ACM<br/>
+<sub><sup>*Han Hu, Kaicheng Zhang, Aaron Hao Tan, Michael Ruan, Christopher Agia, Goldie Nejat*</sup></sub>
+
+<!-- 📄 **BlendGAN: Implicitly GAN Blending for Arbitrary Stylized Face Generation**  
+Mingcong Liu, Qiang Li, Zekui Qin, Guoxin Zhang, Pengfei Wan, Wen Zheng
+[[Paper]](https://www.chrisagia.com/papers/Sim2RealDRLNav-RAL-2021.pdf) RAL Vol.6 No.4 - 2021 -->
 
 
+## 2020
 
----
+📄 **World Model as a Graph: Learning Latent Landmarks for Planning**  
+[[Paper]](https://arxiv.org/abs/2011.12491) [[Website]](https://sites.google.com/view/latent-landmarks/) ICML<br/>
+<sub><sup>*Lunjun Zhang, Ge Yang, Bradly Stadie*</sup></sub>
 
-📄 Hallucinative Topological Memory for Zero-Shot Visual Planning<br />
-https://arxiv.org/abs/2002.12336
+📄 **Long-Horizon Visual Planning with Goal-Conditioned Hierarchical Predictors**  
+[[Paper]](https://arxiv.org/abs/2006.13205) [[Video]](https://www.youtube.com/watch?v=bbIQepxyaVw) [[Github]](https://github.com/orybkin/video-gcp) NeurIPS<br/>
+<sub><sup>*Karl Pertsch,*Oleh Rybkin,*Frederik Ebert,Chelsea Finn,Dinesh Jayaraman,Sergey Levine*</sup></sub>
 
-📄 World Model as a Graph: Learning Latent Landmarks for Planning  
-https://proceedings.mlr.press/v139/zhang21x.html
+📄 **Sparse Graphical Memory for Robust Planning**  
+[[Paper]](https://arxiv.org/abs/2003.06417) [[Website]](https://mishalaskin.github.io/sgm/) NeurIPS<br/>
+<sub><sup>*Scott Emmons, Ajay Jain, Michael Laskin, Thanard Kurutach, Pieter Abbeel, Deepak Pathak*</sup></sub>
 
-📄 Discovering and Achieving Goals via World Models  
-https://danijar.com/project/lexa
+📄 **Hallucinative Topological Memory for Zero-Shot Visual Planning**  
+[[Paper]](https://arxiv.org/abs/2002.12336)  [[Github]](https://github.com/thanard/hallucinative-topological-memory) [[Video]](https://www.youtube.com/watch?v=SQS7XjcrXtI) ICML<br/>
+<sub><sup>*Kara Liu, Thanard Kurutach, Christine Tung, Pieter Abbeel, Aviv Tamar*</sup></sub>
 
-📄 Planning to Explore via Self-Supervised World Models  
-https://ramanans1.github.io/plan2explore
+📄 **Planning to Explore via Self-Supervised World Models**  
+[[Paper]](https://arxiv.org/abs/2005.05960) [[Github]](https://github.com/ramanans1/plan2explore) ICML<br/>
+<sub><sup>*Ramanan Sekar, Oleh Rybkin, Kostas Daniilidis, Pieter Abbeel, Danijar Hafner, Deepak Pathak*</sup></sub>
 
-📄 Search on the Replay Buffer: Bridging Planning and Reinforcement Learning  
-https://arxiv.org/abs/1906.05253
+📄 **Generalized Hindsight for Reinforcement Learning**  
+[[Paper]](https://arxiv.org/abs/2002.11708) [[Website]](https://sites.google.com/view/generalized-hindsight) NeurIPS<br/>
+<sub><sup>*Alexander C. Li, Lerrel Pinto, Pieter Abbeel*</sup></sub>
 
-📄 Floyd-Warshall Reinforcement Learning: Learning from Past Experiences to Reach New Goals  
-https://arxiv.org/abs/1809.09318
+📄 **Parrot: Data-Driven Behavioral Priors for Reinforcement Learning**  
+[[Paper]](https://arxiv.org/abs/2011.10024) [[Website]](https://sites.google.com/view/parrot-rl) arxiv, ICLR<br/> 
+<sub><sup>*Avi Singh, Huihan Liu, Gaoyue Zhou, Albert Yu, Nicholas Rhinehart, Sergey Levine*</sup></sub>
 
-📄 Generalized Hindsight for Reinforcement Learning  
-https://arxiv.org/abs/2002.11708.
+📄 **ReLMoGen: Leveraging Motion Generation in Reinforcement Learning for Mobile Manipulation**  
+[[Paper]](https://arxiv.org/abs/2008.07792) [[Website]](https://svl.stanford.edu/projects/relmogen/) arxiv, ICRA<br/>
+<sub><sup>*Fei Xia, Chengshu Li, Roberto Martín-Martín, Or Litany, Alexander Toshev, Silvio Savarese*</sup></sub>
 
-📄 Diversity-based Trajectory and Goal Selection with Hindsight Experience Replay  
-https://arxiv.org/pdf/2108.07887.pdf
+📄 **Long-Horizon Visual Planning with Goal-Conditioned Hierarchical Predictors**  
+[[Paper]](https://arxiv.org/abs/2006.13205) [[Website]](https://orybkin.github.io/video-gcp/) NeurIPS<br/>
+<sub><sup>*Karl Pertsch, Oleh Rybkin, Frederik Ebert, Chelsea Finn, Dinesh Jayaraman, Sergey Levine*</sup></sub>
 
-📄 Rapid Exploration for Open-World Navigation with Latent Goal Models  
-https://arxiv.org/abs/2104.05859
-https://openreview.net/pdf?id=d_SWJhyKfVw
+📄 **Deep Skill Chaining**  
+[[Website]](https://sites.google.com/g.hmc.edu/dsc) arXiv<br/> 
+<sub><sup>*Akhil Bagaria, George Konidaris*</sup></sub>
 
-📄 InfoBot: Transfer and Exploration via the Information Bottleneck  
-https://arxiv.org/abs/1901.10902
+📄 **Learning Robot Skills with Temporal Variational Inference**  
+[[Paper]](https://arxiv.org/abs/2006.16232) ICML<br/>
+<sub><sup>*Tanmay Shankar, Abhinav Gupta*</sup></sub>
 
-📄 Learning an embedding space for transferable robot skills  
-https://openreview.net/forum?id=rk07ZXZRb
+📄 **Hierarchical Planning for Long-Horizon Manipulation with Geometric and Symbolic Scene Graphs**  
+[[Paper]](https://arxiv.org/abs/2012.07277) arxiv,  ICRA<br/>
+<sub><sup>*Yifeng Zhu, Jonathan Tremblay, Stan Birchfield, Yuke Zhu*</sup></sub>
 
-📄 Parrot: Data-Driven Behavioral Priors for Reinforcement Learning  
-https://arxiv.org/abs/2011.10024
+📄 **Deep Visual Reasoning: Learning to Predict Action Sequences for Task and Motion Planning from an Initial Scene Image**  
+[[Paper]](https://arxiv.org/abs/2006.05398) RSS<br/>
+<sub><sup>*Danny Driess, Jung-Su Ha, Marc Toussaint*</sup></sub>
 
-📄 ReLMoGen: Leveraging Motion Generation in Reinforcement Learning for Mobile Manipulation  
-http://svl.stanford.edu/projects/relmogen
 
-📄 HalGan:Addressing Sample Complexity in Visual Tasks Using HER and Hallucinatory GANs  
-https://arxiv.org/pdf/1901.11529.pdf
+## 2019
 
-📄 Long Horizon Visual Planning with Goal-Conditioned Hierarchical Predictors  
-https://orybkin.github.io/video-gcp/
+📄 **Dynamics-Aware Unsupervised Discovery of Skills**  
+[[Paper]](https://arxiv.org/abs/1907.01657) [[GitHub]](https://github.com/google-research/dads) [[Video]](https://www.youtube.com/watch?v=3RpYykEz1q8) ICLR<br/>
+<sub><sup>*Archit Sharma, Shixiang Gu, Sergey Levine, Vikash Kumar, Karol Hausman*</sup></sub>
 
-📄 Shortest-Path Constrained Reinforcement Learning for Sparse Reward Tasks  
-https://arxiv.org/abs/2107.06405
+📄 **Planning with Goal-Conditioned Policies**  
+[[Paper]](https://arxiv.org/abs/1912.04958) [[Website]](https://sites.google.com/view/goal-planning) [[Github]](https://github.com/snasiriany/leap) NeurIPS<br/>
+<sub><sup>*Soroush Nasiriany, Vitchyr Pong, Steven Lin, Sergey Levine*</sup></sub>
 
-📄 Learning One Representation to Optimize All Rewards  
-https://arxiv.org/abs/2103.07945
+📄 **Search on the Replay Buffer: Bridging Planning and Reinforcement Learning**  
+[[Paper]](https://arxiv.org/abs/1906.05253) [[Github]](https://github.com/google-research/google-research/tree/master/sorb) NeurIPS<br/>
+<sub><sup>*Benjamin Eysenbach, Ruslan Salakhutdinov, Sergey Levine*</sup></sub>
 
-📄 Model-Based Reinforcement Learning via Latent-Space Collocation  
-https://orybkin.github.io/latco/
+📄 **Floyd-Warshall Reinforcement Learning: Learning from Past Experiences to Reach New Goals**  
+[[Paper]](https://arxiv.org/abs/1809.09318) arxiv<br/>
+<sub><sup>*Vikas Dhiman, Shurjo Banerjee, Jeffrey M. Siskind, Jason J. Corso*</sup></sub>
 
-📄 Automatic Goal Generation for Reinforcement Learning Agents  
-https://arxiv.org/abs/1705.06366
+📄 **InfoBot: Transfer and Exploration via the Information Bottleneck**<br/> 
+[[Paper]](https://arxiv.org/abs/1901.10902) ICLR<br/>
+<sub><sup>*Anirudh Goyal, Riashat Islam, Daniel Strouse, Zafarali Ahmed, Matthew Botvinick, Hugo Larochelle, Yoshua Bengio, Sergey Levine*</sup></sub>
 
-📄 Skill Preferences: Learning to Extract and Execute Skills from Human Feedback  
-https://sites.google.com/view/skill-pref.
+📄 **Addressing Sample Complexity in Visual Tasks Using HER and Hallucinatory GANs**  
+[[Paper]](https://arxiv.org/abs/1901.11529) arxiv<br/>
+<sub><sup>*Himanshu Sahni, Toby Buckley, Pieter Abbeel, Ilya Kuzovkin*</sup></sub>
 
-📄 Learning Goal Embeddings via Self-Play for Hierarchical Reinforcement learning  
-https://arxiv.org/abs/2111.03189
+📄 **Discovering Options for Exploration by Minimizing Cover Time**  
+[[Paper]](https://arxiv.org/abs/1903.00606) arXiv<br/>
+<sub><sup>*Yuu Jinnai, Jee Won Park, David Abel, George Konidaris*</sup></sub>
 
-📄 Generating Adjacency-Constrained Subgoals in Hierarchical Reinforcement Learning  
-https://arxiv.org/abs/2006.11485 
+📄 **Successor Options: An Option Discovery Framework for Reinforcement Learning**  
+[[Paper]](https://arxiv.org/abs/1905.05731)  IJCAI<br/>
+<sub><sup>*Rahul Ramesh, Manan Tomar, Balaraman Ravindran*</sup></sub>
 
-📄 Value Function Spaces: Skill-Centric State Abstractions for Long-Horizon Reasoning   
-https://t.co/yJqJwwCT6r
+📄 **Neural Path Planning: Fixed Time, Near-Optimal Path Generation via Oracle Imitation**  
+[[Paper]](https://arxiv.org/abs/1904.11102) arxiv<br/>
+<sub><sup>*Mayur J. Bency, Ahmed H. Qureshi, Michael C. Yip*</sup></sub>
 
-📄 A First-Occupancy Representation for Reinforcement Learning  
-https://arxiv.org/abs/2109.13863
 
-📄Skill Discovery for Exploration and Planning using Deep Skill Graphs  
-https://sites.google.com/brown.edu/dsg/
+## 2018
+
+📄 **Semi-Parametric Topological Memory for Navigation**  
+[[Paper]](https://arxiv.org/abs/1803.00653) [[Video]](https://www.youtube.com/watch?v=PyQe7nsedkY) [[Github]](https://github.com/nsavinov/SPTM) ICLR<br/>
+<sub><sup>*Nikolay Savinov, Alexey Dosovitskiy, Vladlen Koltun*</sup></sub>  
+
+📄 **Automatic Goal Generation for Reinforcement Learning Agents**  
+[[Paper]](https://arxiv.org/abs/1705.06366) [[Video]](https://vimeo.com/312269573) ICML<br/>
+<sub><sup>*Carlos Florensa, David Held, Xinyang Geng, Pieter Abbeel*</sup></sub>
+
+📄 **Finding Options that Minimize Planning Time**  
+[[Paper]](https://arxiv.org/abs/1810.07311) arxiv<br/>
+<sub><sup>*Yuu Jinnai, David Abel, D Ellis Hershkowitz, Michael Littman, George Konidaris*</sup></sub>
+
+📄 **Motion Planning Networks**  
+[[Paper]](https://arxiv.org/abs/1806.05767) [[Website]](https://sites.google.com/view/mpnet/home) arxiv<br/>
+<sub><sup>*Ahmed H. Qureshi, Anthony Simeonov, Mayur J. Bency, Michael C. Yip*</sup></sub>  
+
+
+## 2017
  
-📄Deep Skill Chaining  
-http://sites.google.com/g.hmc.edu/dsc/
- 
-📄Flexible Option Learning  
- https://openreview.net/pdf?id=L5vbEVIePyb.
- 
-📄Finding Options that minimize planning time  
- http://proceedings.mlr.press/v97/jinnai19a/jinnai19a.pdf
- 
-📄Discovering Options for Exploration by Minimizing Cover Time  
-http://proceedings.mlr.press/v97/jinnai19b/jinnai19b.pdf
+📄 **Cognitive Mapping and Planning for Visual Navigation**  
+[[Paper]](https://arxiv.org/abs/1702.03920) [[Website]](https://sites.google.com/view/cognitive-mapping-and-planning/) CVPR<br/>
+<sub><sup>*Saurabh Gupta, Varun Tolani, James Davidson, Sergey Levine, Rahul Sukthankar, Jitendra Malik*</sup></sub>
 
-📄Successor Options  
-https://arxiv.org/pdf/1905.05731.pdf
-
-📄causal InfoGan  
-https://sites.google.com/view/causal-infogan/home
-
-📄 Planning with Diffusion for Flexible Behavior Synthesis  
-https://diffusion-planning.github.io/
- 
-📄 Learning Robot Skills with Temporal Variational Inference
-https://arxiv.org/abs/2006.16232
-
----
-
-📄 Learning Geometric Reasoning and Control for Long-Horizon Tasks from Visual Input  
-https://ieeexplore.ieee.org/abstract/document/9560934  
-http://groups.csail.mit.edu/robotics-center/public_papers/Driess21.pdf  
-📺 https://youtu.be/AcPWRTkr3_g  
-
-📄 Learning to solve sequential physical reasoning problems from a scene image  
-https://journals.sagepub.com/doi/full/10.1177/02783649211056967  
-
-📄 Deep Visual Reasoning: Learning to Predict Action Sequences for Task and Motion Planning from an Initial Scene Image  
-https://arxiv.org/abs/2006.05398  
-  
-📄 Hierarchical Planning for Long-Horizon Manipulation with Geometric and Symbolic Scene Graphs  
-https://arxiv.org/abs/2012.07277  
-📺 https://www.youtube.com/watch?v=GCfs3DJ4aO4  
-
-📄 Differentiable Physics and Stable Modes for Tool-Use and Manipulation Planning  
-http://www.roboticsproceedings.org/rss14/p44.pdf  
-📺 https://youtu.be/ILufu3Iq2SI  
-
----
-
-📄 Goal-Conditioned Reinforcement Learning with Imagined Subgoals  
-https://proceedings.mlr.press/v139/chane-sane21a.html  
-📺 https://crossminds.ai/video/goal-conditioned-reinforcement-learning-with-imagined-subgoals-614bcccc3c7a224a90902b87/  
-https://github.com/elliotchanesane31/RIS  
-  
-📄 Motion Planning Among Dynamic, Decision-Making Agents with Deep Reinforcement Learning  
-https://ieeexplore.ieee.org/abstract/document/8593871?casa_token=IBsv3HtFInsAAAAA:IgK0ydhMyvhyJjUmZw5dqv1Sx4cJhjZEOdAGBwqdhnJJaM05MvJ7lL4WaC6aOREFE64N3G4sVzPpNg  
-https://github.com/mit-acl/cadrl_ros  
-
-📄 Learning Sampling Distributions for Robot Motion Planning  
-https://ieeexplore.ieee.org/abstract/document/8460730  
-arxiv-https://arxiv.org/abs/1709.05448  
-https://github.com/StanfordASL/LearnedSamplingDistributions  
-
-📄 Motion Planning Networks  
-https://ieeexplore.ieee.org/abstract/document/8793889  
-arxiv- https://arxiv.org/abs/1806.05767  
-📺https://www.youtube.com/watch?v=hT8hsptcwLw  
-  
-📄 Robot Motion Planning in Learned Latent Spaces  
-https://ieeexplore.ieee.org/abstract/document/8653875  
-https://github.com/StanfordASL/LSBMP  
-
-📄 Neural Path Planning:Fixed Time,Near-Optimal Path Generation via Oracle Imitation  
-https://arxiv.org/abs/1904.11102
-
----
- 
- 
-
-📄 Hierarchical Representations and Explicit Memory: Learning Effective Navigation Policies on 3D Scene Graphs using Graph Neural Networks <br />
-Zachary Ravichandran, Lisa Peng, Nathan Hughes, J. Daniel Griffith, and Luca Carlone<br />
-[[Paper]](https://arxiv.org/pdf/2108.01176.pdf)
-[[Video]](https://youtu.be/x4LM-g3-uaY)
-[[Github]](https://github.com/MIT-TESSE/dsg-rl)
-ICRA 2022
-
-📄 TERP: Reliable Planning in Uneven Outdoor Environments using Deep Reinforcement Learning <br />
-Kasun Weerakoon, Adarsh Jagan Sathyamoorthy, Utsav Patel, and Dinesh Manocha<br />
-[[Paper]](https://arxiv.org/pdf/2109.05120.pdf) 
-[[Website+Video]](https://gamma.umd.edu/researchdirections/crowdmultiagent/terp)
-ICRA 2022
-
-📄 A Sim-to-Real Pipeline for Deep Reinforcement Learning for Autonomous Robot Navigation in Cluttered Rough Terrain <br />
-Han Hu, Kaicheng Zhang, 
-Aaron Hao Tan,  Michael Ruan, Christopher Agia, Goldie Nejat<br />
-[[Paper]](https://www.chrisagia.com/papers/Sim2RealDRLNav-RAL-2021.pdf)  
-RAL Vol.6 No.4 - 2021
