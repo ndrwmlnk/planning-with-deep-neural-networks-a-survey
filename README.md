@@ -18,6 +18,9 @@
 
 ## 2023
 
+📄 **Diffusion-based Generation, Optimization, and Planning in 3D Scenes**  
+[[Paper]](https://arxiv.org/abs/2301.06015) [[Project]](https://scenediffuser.github.io/) arXiv  
+<sub><sup>*Siyuan Huang, Zan Wang, Puhao Li, Baoxiong Jia, Tengyu Liu, Yixin Zhu, Wei Liang, Song-Chun Zhu* </sup></sub>
 
 ## 2022
 
