@@ -1,6 +1,7 @@
 # 📖 Planning with Deep Neural Networks: A Survey
 ## Papers
-[Click to see Figures](#Papers)  
+[Click to see Figures (Miro board)](https://miro.com/app/board/uXjVMU7erjk=/?share_link_id=511817583229)  
+  
 [2023](#2023), [2022](#2022), [2021](#2021), [2020](#2020), [2019](#2019), [2018](#2018), [2017](#2017)  
 ### 2023  
 <sub><b>Diffusion-based Generation, Optimization, and Planning in 3D Scenes</b></sub> <sub>_[[Paper]](https://arxiv.org/abs/2301.06015)[[Website]](https://scenediffuser.github.io/)_</sub> <sub><sub><sub><sup>_Siyuan Huang, Zan Wa.....Liang, Song-Chun Zhu_</sup></sub></sub></sub>  
